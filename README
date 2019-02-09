@@ -5,6 +5,7 @@ Do fuzzy string matching to a tex file
 
 Score the document for bullsh*t
 
-
+## Requirements
+fuzzywuzzy library: https://www.geeksforgeeks.org/fuzzywuzzy-python-library/
 
 
