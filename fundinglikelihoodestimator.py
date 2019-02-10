@@ -31,4 +31,4 @@ for infilename in fileList:
                     counter_positive = counter_positive + 1
 
 
-    print infilename, float(counter_positive)/float(counter_total)
+    print infilename, float(counter_positive)/float(counter_total)*1000
